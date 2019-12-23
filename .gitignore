@@ -1,3 +1,6 @@
+## working directories
+tmp/
+
 ########## IDEs ##########
 .idea
 .vscode
